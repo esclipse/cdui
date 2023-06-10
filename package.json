@@ -43,6 +43,9 @@
       "prettier --parser=typescript --write"
     ]
   },
+  "dependencies": {
+    "user": "^0.0.0"
+  },
   "devDependencies": {
     "@commitlint/cli": "^17.1.2",
     "@commitlint/config-conventional": "^17.1.0",
@@ -69,6 +72,6 @@
     "access": "public"
   },
   "authors": [
-    "lcj"
+    "laoxiangzi"
   ]
 }
