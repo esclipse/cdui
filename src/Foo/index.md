@@ -5,5 +5,5 @@ This is an example component.
 ```jsx
 import { Foo } from 'cdui';
 
-export default () => <Foo title="Hello dumiss!" />;
+export default () => <Foo title="Hello dumi=.=!" />;
 ```
