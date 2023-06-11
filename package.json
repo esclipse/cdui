@@ -1,7 +1,7 @@
 {
   "name": "@laoxiangzi/ui",
   "version": "0.0.1",
-  "description": "cdui component",
+  "description": "laoxiangzi ui component",
   "license": "MIT",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",

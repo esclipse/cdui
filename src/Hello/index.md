@@ -3,7 +3,7 @@
 This is an example component.
 
 ```jsx
-import { Hello } from 'cdui';
+import { Hello } from '@laoxiangzi/ui';
 
 export default () => <Hello title="lcj first deploy test" />;
 ```
