@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_laoxiangzi_ui=self.webpackChunk_laoxiangzi_ui||[]).push([[202],{68202:function(a,i,n){n.r(i),n.d(i,{Foo:function(){return u},Hello:function(){return e}});var c=n(67294),l=n(85893),t=function(o){return(0,l.jsx)("h4",{children:o.title})},u=t,r=function(o){return(0,l.jsxs)("h4",{children:["nihaoshijie",o.title]})},e=r}}]);
