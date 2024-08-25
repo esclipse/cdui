@@ -3,7 +3,7 @@
 [![NPM version](https://img.shields.io/npm/v/cdui.svg?style=flat)](https://npmjs.org/package/cdui)
 [![NPM downloads](http://img.shields.io/npm/dm/cdui.svg?style=flat)](https://npmjs.org/package/cdui)
 
-cdui component
+dumi 组件库搭建
 
 ## Usage
 
